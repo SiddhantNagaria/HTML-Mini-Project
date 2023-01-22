@@ -1,0 +1,149 @@
+<html>
+<head>
+<title>
+Hand Made Crafts
+</title>
+</head>
+<body bgcolor = "aqua">
+<br><br>
+<center>
+<font face = "algerian" color = "navy" size = "8">
+Hand Made Crafts
+</font>
+<hr size = "6" color = "maroon" width = 75%>
+</center>
+<font face = "freestyle script" size = "7">
+<marquee> By :- Siddhant Nagaria <pre> 10th A </pre>
+</marquee>
+<hr size = "6" color = "maroon" width = 75%>
+<img src="hmc.jpg" align =right height = 300 width = 300>
+<center>
+<a href = "childrenbased.html">Go Back To Previous Page. !!!</a>
+</center>
+</font>
+<hr size = "6" color = "maroon" width = 75%>
+<br>
+<font face = "times new roman" size = "7">
+<b><i>
+Handicraft
+</b></i>
+</font>
+<br><br>
+<font face = "times new roman" size = "5">
+A <b>handicraft</b>, sometimes more precisely expressed as <b>artisanal handicraft</b> or <b>handmade</b>, is any of a wide variety of types of work where useful and decorative objects are made completely by hand or by using only simple tools. It is a traditional main sector of craft, and applies to a wide range of creative and design activities that are related to making things with one's hands and skill, including work with textiles, moldable and rigid materials, paper, plant fibers, etc. One of the world's oldest handicraft is Dhokra; this is a sort of metal casting that has been used in India for over 4,000 years and is still used. Usually the term is applied to traditional techniques of creating items (whether for personal use or asproducts) that are both practical and aesthetic.Handicraft industries are those that produces things with hands to meet the needs of the people in their locality.Machines are not used.
+<br>
+Collective terms for handicrafts include <b>artisanry</b>, <b>handicrafting</b>, <b>crafting</b>, and <b>handicraftsmanship</b>.
+<br>
+The term <b>arts and crafts</b> is also applied, especially in the United States and mostly to hobbyists' and children's output rather than items crafted for daily use, but this distinction is not formal, and the term is easily confused with the Arts and Crafts design movement, which is in fact as practical as it is aesthetic.
+<br>
+Handicrafting has its roots in the rural crafts —the material-goods necessities—of ancient civilizations, and many specific crafts have been practiced for centuries, while others are modern inventions, or popularizations of crafts which were originally practiced in a limited geographic area.
+</p><p>Many handicrafters use natural, even entirely indigenous, materials while others may prefer modern, non-traditional materials, and even upcycle industrial materials. The individual artisanship of a handicrafted item is the paramount criterion; those made by mass production or machines are not handicraft goods.
+</p><p>Seen as developing the skills and creative interests of students, generally and sometimes towards a particular craft or trade, handicrafts are often integrated into educational systems, both informally and formally.  Most crafts require the development of skill and the application of patience, but can be learned by virtually anyone.
+</p><p>Like folk art, handicraft output often has cultural and/or religious significance, and increasingly may have a political message as well, as in craftivism. Many crafts become very popular for brief periods of time (a few months, or a few years), spreading rapidly among the crafting population as everyone emulates the first examples, then their popularity wanes until a later resurgence.
+</p>
+<h2>Contents</h2>
+<ul>
+<li><a href = "#The Art and Crafts movements in the World">The Art and Crafts movements in the World</a>
+<li><a href = "#In Modern Education">In Modern Education</a>
+<li><a href = "#List of Common Handicrafts">List of Common Handicrafts</a>
+<ul>
+<li><a href = "#Using textiles or leather">Using textiles or leather</a>
+<li><a href = "#Using wood, metal, clay, bone, horn, glass, or stone">Using wood, metal, clay, bone, horn, glass, or stone
+</a>
+<li><a href = "#Using paper or canvas">Using paper or canvas</a>
+<li><a href = "#Using plants other than wood">Using plants other than wood</a>
+<li><a href = "#Other">Other</a>
+</ul>
+<li><a href = "#Sales Venues">Sales Venues</a>
+</ul>
+<hr size = "6" color = "maroon" width = 70%>
+<br>
+<font face = "chiller" size = "8">
+<a name = "The Art and Crafts movements in the World">
+<b>The Art and Crafts movements in the World</b>
+</font>
+<br>
+The Arts and Crafts movement originated as a late 19th-century design reform and social movement principally in Europe, North America and Australia, and continues today. Its proponents are motivated by the ideals of movement founders such as William Morris and John Ruskin, who proposed that in pre-industrial societies, such as the European Middle Ages, people had achieved fulfillment through the creative process of handicrafts. This was held up in contrast to what was perceived to be the alienating effects of industrial labor.
+Works Progress Administration, Crafts Class, 1935.
+<br>
+These activities were called crafts because originally many of them were professions under the guild system. Adolescents were apprenticed to a master craftsman, and refined their skills over a period of years in exchange for low wages. By the time their training was complete, they were well equipped to set up in trade for themselves, earning their living with the skill that could be traded directly within the community, often for goods and services. The Industrial Revolution and the increasing mechanisation of production processes gradually reduced or eliminated many of the roles professional craftspeople played, and today many handicrafts are increasingly seen, especially when no longer the mainstay of a formal vocational trade, as a form of hobby, folk art and sometimes even fine art. 
+<br><br>
+<a name = "In Modern Education">
+<font face = "chiller" size = "8">
+<b>In Modern Education</b>
+</font><br>
+Simple "arts and crafts" projects are a common elementary and middle school activity in both mainstream and alternative education systems around the world.
+<br>
+In some of the Scandinavian countries, more advanced handicrafts form part of the formal, compulsory school curriculum, and are collectively referred to as slöjd in Swedish, and käsityö or veisto in Finnish. Students learn how to work with mainly metal, textile and wood, not for professional training purposes as in American vocational–technical schools, but with the aim to develop children's and teens' practical skills, such as everyday problem-solving ability, tool use, and understanding of the materials that surround us for economical, cultural and environmental purposes.
+<br>
+Secondary schools and college and university art departments increasingly provide elective options for more handicraft-based arts, in addition to formal "fine arts", a distinction that continues to fade throughout the years, especially with the rise of studio craft, i.e. the use of traditional handicrafting techniques by professional fine artists.
+<br>
+Many community centers and schools run evening or day classes and workshops, for adults and children, offering to teach basic craft skills in a short period of time.
+<br><br>
+<a name = "List of Common Handicrafts">
+<font face = "chiller" size = "8">
+<b>List of Common Handicrafts</b>
+</font>
+<IMG SRC="xy.jpg" align =right height = 200 width = 200>
+<br>
+There are almost as many variations on the theme of handicrafts as there are crafters with time on their hands, but they can be broken down into a number of categories: 
+<br><br>
+<a name = "Using textiles or leather">
+<b>Using textiles or leather  </b>
+<IMG SRC="cal.png" align =right height = 200 width = 200>
+<ol type = "I">
+<li>bagh prints                                         <li>canvas work
+<li>banner making                                 <li>cross stitch
+<li>calligraphy                                         <li>crochet, etc.
+</ol>
+<a name = "Using wood, metal, clay, bone, horn, glass, or stone">
+<b>Using wood, metal, clay, bone, horn, glass, or stone</b>
+<IMG SRC="bead.jpg" align =right height =200 width = 200>
+<ol type = "I">
+<li>bead work                                            <li>ceramic art
+<li>carpentary                                            <li>fretwork
+<li>glassblowing                                            <li>marquetry
+</ol>
+<a name = "Using paper or canvas">
+<b>Using paper or canvas</b>
+<img src="assem.jpg" align =right height = 200 width = 200>
+<ol type = "I">
+<li>Altered books                                              <li>assemblage
+<li>paper craft(generally)                                 <li>paper marbling
+<li>scrapbooking                              <li>rubber/arcylic stamping
+</ol>
+<a name = "Using plants other than wood">
+<b>Using plants other than wood</b>
+<img src="bask.jpg" align =right height = 200 width = 200>
+<ol type = "I">
+<li>basket weaving                <li>corn dolly making
+<li>floral design                       <li>pressed flower craft
+<li>straw marquetry
+</ol>
+<a name = "Other">
+<b>Other</b>
+<img src="cake.gif" align =right height = 200 width = 200>
+<ol type = "I">
+<li>Balloon animals                       <li>cake decorating
+<li>egg decorating
+</OL>
+<a name = "Sales Venues">
+<font face = "chiller" size = "7">
+<b>Sales Venues</b>
+</font>
+<br>
+<img src="sap.jpg" align =right height = 200 width =200>
+Handicrafts are often made for home use.If sold, they are sold in direct sales, gift shops, public markets, and online shopping. In developing countries, handicrafts are sold to locals and as souvenirs to tourists. Sellers tend to speak at least a few words of common tourist languages. There are also specialty markets such as:
+<ul>
+<li>    Pike Place Public Market of Seattle
+<li>    Street Artists Program of San Francisco
+<li>    Ann Arbor Art Fairs
+ <li>   International Art and Craft Fair, Ouagadougou
+</ul>
+<br>
+<hr size = "6" color = "maroon" width = 70%>
+<br>
+<font face = "freestyle script" size = "8">
+Just scroll up to back to previous page. !!!!
+</body>
+</html>

@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>
+Children Based Creative Plans
+</title>
+</head>
+<body bgcolor = "blue green">
+<br><br>
+<font face = "algerian" size = "7" color = "aqua">
+<center><b>
+Children Based Creative Plans
+</b>
+</font>
+<font size = "6">
+<marquee>
+By :- Siddhant Nagaria <pre>10th A </pre>
+</marquee>
+</center>
+<hr size = "5" color = "navy" width = 75% align = "center">
+<font face = "freestyle script" size = "8" color = "rainbow">
+<center>
+<a href = "MAIN FILE.html"> Go Back To Home Page </a>
+</center>
+</font>
+<IMG SRC="creative plans.jpg" align=right height = 200 width = 200>
+<hr size = "5" color = "navy" width = 75% align = "center">
+<font face = "freestyle script" size  = "7"><b>
+I welcome you again on my webpage to know more about different types of creative plans.
+<br>
+Over here,  I am going to tell you all about Children Based Creative Plans. !!!</b></font>
+<br>
+<ol>
+<li><a href = "Hand Made Crafts.html">Hand Made Crafts</a>
+<li><a href = "Origami.html">Origami</a>
+<li><a href = "Mehndi Design.html">Mehndi Design</a>
+<hr size = "5" color = "navy" width = 75% align = "center">
+<font  face = "chiller"  size = "7">
+Just click on the above links to know more. !!!!!
+</body>
+</html>
